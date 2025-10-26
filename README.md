@@ -1,2 +1,3 @@
 # HTML
-HERE,AM SHOWING MY PRACTICE ,KNOWLEDGE AND SKILLS I GAINDED THROUGH MY HTML PROJECTS.
+This is my first repository.
+Author-Smruti Pragyan Sahoo
